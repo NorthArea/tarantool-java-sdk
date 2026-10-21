@@ -8,6 +8,12 @@
   the [protocol](https://www.tarantool.io/ru/doc/latest/reference/internals/iproto/streams/#iproto-begin)
   requires the timeout to be passed in seconds (as a `double`).
 
+### Documentation
+
+- Fixed broken links in `tarantool-spring-data/README.md` and `testcontainers/README.md`:
+  they pointed to `doc/` directories that do not exist and now point to the pages under
+  `documentation/doc-src/pages`.
+
 ## [1.7.2] - 2026-09-25
 
 ### Client
