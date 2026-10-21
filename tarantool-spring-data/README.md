@@ -90,11 +90,11 @@ CRUD operations of the
 
 ## Getting Started with Spring Data Tarantool
 
-- [Prerequisites](doc/instructions/prepare.md)
-- [Client Configuration](doc/instructions/configuration.md)
-- [Working with Repository](./doc/instructions/tarantool_repository.md)
-- [Working with Custom Query Methods](./doc/instructions/derived_methods.md)
-- [Working with LUA and Stored Procedures](./doc/instructions/query_lua.md)
-- [Pagination. Pageable, Page, Slice](./doc/instructions/page-slice-pageable.md)
-- [Pagination. Scroll API (spring-data v3.1 and higher)](./doc/instructions/scroll-api.md)
-- [Sort](./doc/instructions/sort.md)
+- [Prerequisites](../documentation/doc-src/pages/spring-data/index.en.md#prerequisites-before-working-with-the-spring-data-tarantool-module)
+- [Client Configuration](../documentation/doc-src/pages/spring-data/configuration.en.md)
+- [Working with Repository](../documentation/doc-src/pages/spring-data/repository.en.md)
+- [Working with Custom Query Methods](../documentation/doc-src/pages/spring-data/derived-methods.en.md)
+- [Working with LUA and Stored Procedures](../documentation/doc-src/pages/spring-data/query-lua.en.md)
+- [Pagination. Pageable, Page, Slice](../documentation/doc-src/pages/spring-data/page-slice-pageable.en.md)
+- [Pagination. Scroll API (spring-data v3.1 and higher)](../documentation/doc-src/pages/spring-data/scroll-api.en.md)
+- [Sort](../documentation/doc-src/pages/spring-data/sort.en.md)
